@@ -6,7 +6,7 @@ import java.util.Scanner;
      {
        float a, b, res;
        char choice, ch;
-       Scanner scan = new Scanner(System.in);
+       Scanner scan = new Scanner(System.in);          // jenkins demo
 	      
       	do
          {
