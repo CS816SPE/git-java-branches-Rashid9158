@@ -32,12 +32,12 @@ import java.util.Scanner;
 	                 System.out.print("Result = " + res);
 	                 break;
 	 
-	      /*case '3' : System.out.print("Enter Two Number : ");
+	      case '3' : System.out.print("Enter Two Number : ");
 	                 a = scan.nextFloat();
 	                 b = scan.nextFloat();
 	                 res = a * b;
 	                 System.out.print("Result = " + res);
-	                 break;*/
+	                 break;
 	 
 	      case '4' : System.out.print("Enter Two Number : ");
 	                 a = scan.nextFloat();
